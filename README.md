@@ -7,7 +7,7 @@ Para esse curso colocarei os arquivos que for fazendo
     Para o primeiro curso teremos Flex Box
     <ul>
       <li>
-        Atualizações
+        Cabaçalho arrumado com o Display Flaxs
       </li>
     </ul>
   </li>
