@@ -1,0 +1,5 @@
+@media (min-width: 830px){
+    .cabecalho__pesquisar__item{
+        display: block;
+    }
+}
