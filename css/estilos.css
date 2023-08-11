@@ -25,6 +25,11 @@ body {
 /* CABEÇALHO */
 
 .cabecalho__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
     background-color: white;
     height: 80px;
     width: 100%;
@@ -36,6 +41,10 @@ body {
     background-repeat: no-repeat;
     padding: 15px 65px;
     cursor: pointer;
+}
+
+.cabecalho__pesquisar__item{
+    display: none;
 }
 
 .pesquisar__input {
