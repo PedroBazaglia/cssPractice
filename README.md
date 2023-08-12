@@ -12,6 +12,9 @@ Para esse curso colocarei os arquivos que for fazendo
       <li>
         Aula 2 - Arrumando o Footer e a seção superior do site
       </li>
+      <li>
+        Aula 3 - Arruamndo o menu de navegação para celulares e tablets
+      </li>
     </ul>
   </li>
 </ul>  
