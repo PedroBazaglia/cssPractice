@@ -7,7 +7,10 @@ Para esse curso colocarei os arquivos que for fazendo
     Para o primeiro curso teremos Flex Box
     <ul>
       <li>
-        Cabaçalho arrumado com o Display Flax
+        Aula 1 - Cabaçalho arrumado com o Display Flex
+      </li>
+      <li>
+        Aula 2 - Arrumando o Footer e a seção superior do site
       </li>
     </ul>
   </li>
