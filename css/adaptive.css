@@ -9,4 +9,16 @@
     .rodape__container{
         justify-content: space-between;
     }
+
+    .menu__container{
+        top: 80px;        
+        width: auto;
+        height: 100%;
+    }
+
+    .menu__lista{
+        justify-content:flex-start;
+        flex-direction: column;
+        gap: 40px;
+    }
 }
