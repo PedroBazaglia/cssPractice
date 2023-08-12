@@ -1,5 +1,12 @@
 @media (min-width: 830px){
+    /* CABEÇALHO */
     .cabecalho__pesquisar__item{
         display: block;
+    }
+
+    /* RODAPE */
+
+    .rodape__container{
+        justify-content: space-between;
     }
 }
