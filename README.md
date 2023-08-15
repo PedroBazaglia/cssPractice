@@ -15,6 +15,18 @@ Para esse curso colocarei os arquivos que for fazendo
       <li>
         Aula 3 - Arruamndo o menu de navegação para celulares e tablets
       </li>
+        Aula 4 - Arrumando o menu de navegação para Computadore
+      <li>
+        Aula 5 - Adicionando os videos e adicionando o novo atributo chamado "flex-grow"
+      </li>
+    </ul>
+    <ul>
+      Nesse curso foi trabalhado todos os atributos mais aprofundados do CSS, focado no atributo do:
+
+      ``` 
+      display: flex
+      ```
+      
     </ul>
   </li>
 </ul>  
